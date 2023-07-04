@@ -1,0 +1,9 @@
+vendor
+node_modules
+.git
+.idea
+.gitpod
+.vscode
+.gitignore
+.gitpod.yml
+README.md
